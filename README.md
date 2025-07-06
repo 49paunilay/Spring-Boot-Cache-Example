@@ -7,6 +7,7 @@ This is a Spring Boot application that demonstrates:
 ✅ Static Scheduled Tasks  
 ✅ Dynamic Scheduling using `ScheduledFuture`  
 ✅ `ThreadPoolTaskScheduler` Integration  
+✅ Spring Filter
 
 ---
 
@@ -37,7 +38,7 @@ This is a Spring Boot application that demonstrates:
 - **H2 Database**
 - **Redis Cache**
 - **Spring Scheduler**
-
+- **Filter**
 ---
 
 
